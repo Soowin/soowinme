@@ -7,7 +7,7 @@ module.exports = {
       { text: 'Blogs', link: '/blogs/' },
       { text: 'Tools', link: '/tools/' },
     ],
-    logo: './head.png',
+    logo: './logo.png',
     sidebar:{
       '/tools/': [{
         title:"Tools",
@@ -15,8 +15,7 @@ module.exports = {
         children:[
           {title:"作业统计", path:"/tools/zuoyetongji"}
         ]
-      }],
-      
+      }]
     }
   }
 }

@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /head.png
+heroImage: /head.jpg
 heroText: 摸鱼手册
 tagline: 没人看的博客
 actionText: 网络报修快速入口
