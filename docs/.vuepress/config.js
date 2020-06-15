@@ -7,7 +7,6 @@ module.exports = {
       { text: 'Blogs', link: '/blogs/' },
       { text: 'Tools', link: '/tools/' },
     ],
-    logo: './logo.png',
     sidebar:{
       '/tools/': [{
         title:"Tools",
